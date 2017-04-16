@@ -1,6 +1,6 @@
 'use strict';
 
-const esdf = require('esdf');
+const esdf = require('../index');
 const DummyEventSink = esdf.test.DummyEventSink;
 const DummyEventSinkStreamer = esdf.test.DummyEventSinkStreamer;
 const QueueProcessor = esdf.utils.QueueProcessor;

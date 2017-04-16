@@ -1,6 +1,6 @@
 'use strict';
 
-const esdf = require('esdf');
+const esdf = require('../index');
 const TestEnvironment = require('../').utils.TestEnvironment;
 const EventSourcedAggregate = esdf.core.EventSourcedAggregate;
 const Event = esdf.core.Event;

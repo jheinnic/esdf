@@ -9,6 +9,7 @@
     "url": "https://github.com/rkaw92/esdf"
   },
   "contributors": [],
+  "main": "index.js",
   "scripts": {
     "test": "mocha tests"
   },
